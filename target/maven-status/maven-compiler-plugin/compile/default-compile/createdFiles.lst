@@ -1,0 +1,5 @@
+com\ibm\microservices\currencyconvertermicroservice\ConversionFactorProxy.class
+com\ibm\microservices\currencyconvertermicroservice\SwaggerConfig.class
+com\ibm\microservices\currencyconvertermicroservice\CurrencyConversionBean.class
+com\ibm\microservices\currencyconvertermicroservice\CurrencyConversionController.class
+com\ibm\microservices\currencyconvertermicroservice\CurrencyConverterMicroserviceApplication.class
